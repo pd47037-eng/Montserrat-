@@ -1,0 +1,6 @@
+{
+  "name": "Gestor de Calificaciones",
+  "description": "Sistema para el registro de calificaciones de alumnos por actividad, cálculo de promedios trimestrales y finales, dashboard interactivo con gráficos, exportación de informes en PDF/Excel y conexión con Google Sheets y Apps Script.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
